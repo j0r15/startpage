@@ -2,5 +2,8 @@
 
 it blends with my firefox style.css
 
-![preview](preview.png)
 # startpage
+
+todo:
+
+add pandoc template for editing in Markdown

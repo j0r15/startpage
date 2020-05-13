@@ -1,6 +1,6 @@
 :root {
 	--wallpaper: url();
-	--background: #263238;
+	--background: rgb(41, 41, 41);
 	--foreground: #eeffff;
 	--color0: #2e3c43;
 	--color1: #f07178;
